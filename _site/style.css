@@ -959,7 +959,24 @@ body {
     line-height: 1.6;
 }
 
-/* Product Mobile View*/
+#product footer {
+    text-align: left;
+}
+
+#product #product-images {
+    margin-bottom: 60px;
+}
+
+#product .section-subheading {
+    margin-bottom: 60px;
+}
+
+#product #product-images img {
+    width: 100px;
+    height: 100px;
+}
+
+/* Product Media*/
 
 @media(min-width:768px) {
     #product .col-md-6 {
@@ -1010,11 +1027,26 @@ body {
 #code .timeline .timeline-image .project-hover .project-hover-content i {
     margin-top: -12px;
 }
+
+/* Code  Media*/
+
+@media(min-width:768px) {
+    #code #brain-bites {
+        width: 200px;
+        height: 200px;
+        margin-left: -100px;
+    }
+
+    #code .timeline li {
+        margin-bottom: 60px; 
+    }
+}
 /*
 #code .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
 #code .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
     margin: 0;
 }
 */
+
 
 
