@@ -15,3 +15,17 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
+
+    <!-- Typing jQuery plugin -->
+    <script src="{{ "/js/typed.js" | prepend: site.baseurl }}"></script>
+    <script>
+        $(function(){
+            $("#typed").typed({
+                stringsElement: $('#typed-strings'),
+                loop: true,
+                typeSpeed: 50,
+                backDelay: 800
+            });
+        });
+    </script>
+
