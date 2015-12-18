@@ -50,13 +50,13 @@ social:
     url: http://twitter.com/tinaegolf
   - title: github
     url: http://github.com/te-geekette
-  - title: tumblr
-    url: http://tinaegolf.tumblr.com/
+  # - title: tumblr
+  #   url: http://tinaegolf.tumblr.com/
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown

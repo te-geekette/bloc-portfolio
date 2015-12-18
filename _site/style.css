@@ -1032,21 +1032,28 @@ body {
 
 @media(min-width:768px) {
     #code #brain-bites {
-        width: 200px;
-        height: 200px;
-        margin-left: -100px;
+        width: 210px;
+        height: 210px;
+        margin-left: -105px;
     }
 
     #code .timeline li {
         margin-bottom: 60px; 
     }
 }
-/*
-#code .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
-#code .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
-    margin: 0;
+
+/* ----- Posts ------ */
+
+.portfolio-modal .modal-content p {
+    text-align: left;
 }
-*/
+
+#portfolio .portfolio-item .portfolio-caption {
+    height: 118px; 
+}
+
+
+
 
 
 
