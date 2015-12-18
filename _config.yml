@@ -1,0 +1,30 @@
+url: https://y7kim.github.io
+baseurl: /bloc-portfolio/
+
+# Site settings
+title: Tina Egolf 
+email: te@tinaegolf.de
+description: "My name is Tina Egolf and this is my portfolio: Agile Product Manager. Junior Frontend Developer. Geekette. Speaker. Blogger. Troublemaker."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: fed136
+  secondary: fec503  
+  secondary-dark: 333
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/tinaegolf
+  - title: github
+    url: http://github.com/te-geekette
+  - title: tumblr
+    url: http://tinaegolf.tumblr.com/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#Scripts
+# #1
+google_analytics: "UA-71581856-1"

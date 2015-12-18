@@ -1,0 +1,40 @@
+---
+title: Die Werte sind tot. Es leben die Werte!
+subtitle: Impulse.de
+layout: default
+modal-id: 1
+date: 2014-02-04
+img: postit.png
+thumbnail: postit-thumbnail.png
+alt: image-alt
+publish-date: 04. February 2013
+channel: Impulse Magazin
+link: http://www.impulse.de/management/die-werte-sind-tot-es-leben-die-werte
+category: Company Culture
+
+---
+*Dieser Beitrag wurde am 04. Februar 2013 im Blog des Impulse Magazins veröffentlicht.*
+
+Stellen Sie sich vor, es ist Arbeit und keiner geht hin. Stellen Sie sich vor, Sie wachen morgens auf, gehen pünktlich um 8 Uhr ins Büro und alles ist anders. Es gibt kein Zeiterfassungssystem mehr, das Sie am Eingang begrüßt. Ihre Sekretärin ist auf einmal nicht mehr da. Der junge Mann, den Sie als Ihren Praktikanten gekannt haben und gestern noch 300 Seiten Vertragswerk haben kopieren lassen, beginnt mit Ihnen ein Gespräch und lädt Sie zu einem Workshop am Nachmittag ein. Ihr Büro mit der Topfpflanze ist übrigens auch verschwunden und Sie dürfen sich nun überlegen, ob Sie heute lieber gemeinsam mit den Kollegen aus der Marketing-Abteilung oder vielleicht doch lieber mit den Damen aus dem Controlling zusammensitzen möchten. Ach nein, Abteilungen gibt es ja auch nicht mehr…. Und nun stellen Sie sich noch etwas vor: Niemand sagt Ihnen heute, was Sie zu tun haben. Sie entscheiden, an welchem Projekt Sie heute in welcher Form arbeiten möchten. Sie entscheiden, mit wem Sie zusammen arbeiten und wann es für heute genug ist.
+
+Ist das noch Arbeit? Offensichtlich! Denn während sich in Deutschland noch für Betriebskindergärten auf die Schulter geklopft wird und der Unterschied zwischen Employer Branding und Unternehmenskultur auch mal gerne unter den Vorstands-Tisch fällt, machen sich eine Reihe von Technologieunternehmen bezeichnenderweise vornehmlich in den USA gerade daran nicht nur unsere Produktwelten, sondern auch unsere Arbeitswelten zu revolutionieren.
+
+####Wie aus Werten Phrasen wurden. Und andere den Wert von Kultur entdeckten.
+
+War bislang der deutsche inhabergeführte Mittelstand die unangefochtene Bastion der Werte-Orientierung gegenüber Mitarbeitern und Produkten, scheint das Konzept des fürsorglichen Patriarchen heute wie seine Amtsinhaber kurz vor dem Ruhestand zu stehen. “Vater, Mutter, Firma” hieß die Devise und als der Deal “Kraft und Arbeit gegen Sicherheit” noch Geltung hatte, mag das Konzept des strengen und doch fürsorglichen Chefs auch irgendwie aufgegangen sein. Doch diese Zeiten sind vorbei. Natürlich, Geschäfte macht man immer noch, gerne auch große. Aber in Sachen Innovation und Talentschmiede ist es still geworden in den mitteldeutschen Wäldern. Der Abklatsch dieses Werte-Konzepts hängt nun an den Wänden von großen und kleinen Marketing- und HR-Abteilungen und steht gerne auch mal im Vorwort des Jahresberichts. Doch irgendwie sind sie schal geworden, die Werte-Versprechen von „Respekt“, „Teamarbeit“, „Offenheit“, „Kommunikation“ und wie sie alle lauten.
+
+War das Konzept „Unternehmenswerte“ also lediglich ein Trend und noch dazu ein erfolgloser? Ganz im Gegenteil! Jenseits von Sozialromantik und moralischem Budenzauber definieren Unternehmen wie Zappos (1.500 Mitarbeiter) und Github (180 Mitarbeiter), zwei mehr als renommierte und nachhaltig erfolgreiche Tech-Unternehmen, ihre Unternehmensstrukturen gerade völlig neu. Ziel ist es, die Unternehmen skalierbar zu machen ohne das Gespenst der Bürokratie Einzug halten zu lassen. Top-down Hierarchien werden ersetzt durch sich selbstorganisierende Zirkel, die freie Wahl von Projekten und Teammitgliedern ersetzt die Arbeits(ver)teilung durch Vorgesetzte und Abteilungen. Doch nicht nur in den USA reift der Gedanke des Umbaus klassischer Unternehmens-Strukturen. Cross-funktionale Teams, agile Entwicklung und Lean Management – aus dem Werte-Katalog an der Wand werden handfeste Organisationsstrukturen, die auch in Deutschland vor allem in der IT- und Startup-Szene kaum mehr weg zu denken sind.
+
+Dahinter steht eine zentrale Erkenntnis: Innovation und zukunftsfähiger Erfolg hängen heute mehr den je von der Kreativität und Leistungsbereitschaft der Menschen ab, die sich für das Produktes bzw. das Unternehmen verantwortlich fühlen. Mit diesem Ziel wird der Faktor „Werte-orientierte Unternehmenskultur“ jedoch weit mehr als bloßes soziales Beiwerk, das jenseits von betriebswirtschaftlichen und strategischen Überlegungen existiert. Die Art und Weise, wie wir uns organisieren und wie wir arbeiten, wird zur zentralen Frage, wenn es gilt, Organisationen für das 21. Jahrhundert zu entwerfen.
+
+####Warum managen Sie noch?
+
+Leider wird es an dieser Stelle etwas brenzlig, meine Herren (und vereinzelten Damen) der Geschäftsleitung, denn diese erwähnten Menschen können und sollten nicht mehr alleine Sie sein!
+Der unausgesprochene Verdacht, dass die wenigsten Unternehmer, Vorstände und Manager jeder Couleur nur bedingt aufgrund ihrer Genialität und Erfahrung allein-verantwortlich in der Lage sind, der zunehmenden Geschwindigkeit und Komplexität unseres Wirtschaftssystems zu begegnen, mag für diese Behauptung ein Indiz sein. Aber viel wichtiger ist die Chance, die wir verspielen, wenn wir weiterhin so tun, als ob es keine Alternative gäbe.
+
+Sie können Ihre Mitarbeiter nicht einfach tun lassen, was sie für richtig erachten und erwarten dass etwas Gutes dabei heraus kommt, oder? Falsch. Sie können nicht einfach auf Abteilungen und Reportings verzichten ohne dass Chaos ausbricht? Falsch. Und wo kämen wir denn hin, wenn der Manager, die Arbeit seiner Angestellten nicht mehr überwacht? Nach vorne.
+
+Jedes neue Projekt, das wir beginnen, jedes neue Unternehmen, das wir gründen, gibt uns die Möglichkeit, unser Verständnis von Organisation und Arbeit zu hinterfragen. Und am Ende werden wir dies tun müssen, denn aus der Möglichkeit wird eine Anforderung, wenn wir in Zukunft Innovationen hervorbringen und nachhaltig erfolgreich sein wollen.
+
+Stellen Sie sich also vor, Sie stehen morgen auf und stellen sich folgende Frage: Was würde ich tun, wenn ich keine Angst hätte die ---
+*Bildquelle: „Post-it time“, © 2010 3oheme, used under a Creative Commons Attribution license.*

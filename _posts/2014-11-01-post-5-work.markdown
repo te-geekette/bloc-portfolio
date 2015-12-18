@@ -1,0 +1,47 @@
+---
+title: Why the Future Of Work is not about technology
+subtitle: Medium.com
+layout: default
+modal-id: 5
+date: 2014-11-01
+img: work.png
+thumbnail: work-thumbnail.png
+alt: image-alt
+publish-date: 01. November 2014
+channel: Medium.com
+link: https://medium.com/@tinaegolf/there-is-a-better-way-bbbc6d1ba75d
+category: Company Culture
+---
+
+*This article was originally published at Medium.com.*
+
+You know, I’m a bit tired of reading about “the future of work”. In just a couple of years, this beautifully ambiguous expression with the potential to subsume all our dreams, hopes, anxieties and frustrations about what we call “work” has developed from a rather dull topic into a business case, a promise for innovation and into a market for tech products and visionary storytelling. Nothing boring about that, you might say. And you are right, the examination of such an integral part of our lives – given that we spend approximately 50 percent of our life time with work – is a fascinating topic. What’s not that fascinating for me, are the answers we’ve found so far.
+
+####The future of work is not about technology … or breakfast in the office.
+
+Have you ever wondered, why all the remote work tools, all the ways of sharing and storing your work in one cloud or another, and all the beautiful or scary amenities that shall help you work better, smarter, harder … still leave us with 70 percent of the American workforce feeling “disengaged” from their work? Have you ever asked yourself, why we felt the need to invent words like burnout, bore-out, underachiever, overachiever, in order to describe the mental state of never feeling good enough? And why work-life-balance has become a business practice?
+
+But – don’t get me wrong – there’s no need to get whiny. Maybe we are even living in the best of all possible worlds. However, the hypothesis I want to state, is that we haven’t unleashed the positive, innovative and disruptive potential of “the future of work” yet, since we’ve mainly focused on the product “work” rather than the organisation and definition of work. Looking for a blue ocean called “future of work”, we should start talking about innovation in the way we design organizations and define what we call work.
+
+####The disruptive power of the question “why”
+
+The basic principles of how we define work, how we organise and also how we think about ourselves in this constellation have not been fundamentally questioned for the last 200 years: Management, salaries, reporting structures, quarterly goals, meetings, performance reviews, working hours, deadlines, departments, employment contracts – we treat all these concepts as laws of nature, forgetting that they are nothing else than social conventions.
+
+Most challenges, most limitations of our current work environments are based on the problem that these paradigms of work where never meant to deal with the level of complexity we are facing today. The guiding principle of most economic institutions – no matter if we talk about startups or large corporations – are control and persistence. Or, more precisely, the pursuit of both.
+
+And there are already some organisations out there, that have started to ask the most fundamental and disruptive question of all: “Why…?”
+
+While some languages have two distinct expressions for the backward-looking and the future-oriented aspect of the term, we need to be quite precise with what the English “why” refers to in this context. It’s easy to fall back into a justifying “we need management because not everybody wants to take responsibility” while the defining “In order to foster accountability we will be as transparent as possible” takes much more guts in overcoming our own mental barriers … and comfort zones.
+
+Companies like Zappos, Github, Semco and probably hundreds of unknown small businesses around the world have started to ask questions like “Why do we need management?“, “Why are some people making decisions while others are executing them?” and “Why do we need offices?”.
+
+####And no, this is not a “management question“
+
+Far from being esoteric or – heaven forbid – a management trend, organisational and work design contain a strong business case. In a world where concepts of ownership, restrictions and access rights are challenged by the technologies we’ve developed, we need to build flexible, transparent and resilient systems that are not build for persistence but designed to nurture talent, knowledge and creativity – from an individual point of view. Because the future of work is not a “management decision”. In equal parts, it’s a challenge for the individual and every group forming an organisation.
+
+This is an opportunity for all of us that love to challenge the status quo and talk about game-changing innovations. No matter, if you are an employee, a freelancer, a startup founder or the CEO of a large corporation – the first step towards the future of work is building, claiming and insisting on an environment that supports asking these questions in order to interrupt our embosomed work lives: “Why do we need to connect hours of work with salary?”, “Why should we have a team lead?”, “Why shouldn’t we disclose all our salaries to everyone?”, “Why is working more a desirable goal?” …
+
+No matter what the answers will be, no matter which decisions we make in these matters – every time we go out to achieve something, every time we gather with others to work on a joint effort – let’s start building the future of work by asking: Why are we doing things this way? There is a better way!
+
+---
+Bildquelle: Death to Stock Photo (http://deathtothestockphoto.com/)
