@@ -273,7 +273,7 @@ header {
     text-align: left;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(img/portfolio-titel.png);
+    background-image: url(img/header-notes.png);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -307,7 +307,7 @@ header .intro-text .intro-heading {
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
-        padding-bottom: 200px;
+        padding-bottom: 160px;
     }
 
     header .intro-text .intro-lead-in {
@@ -887,6 +887,10 @@ body {
     align-items: center;
 }
 
+.align-base {
+    align-items: baseline;
+}
+
 
 /* ----- General ------ */
 
@@ -898,6 +902,17 @@ body {
 }
 
 /* ----- Header ------ */
+
+
+.header-row img {
+    border: 7px solid #f1f1f1;
+    width: 150px;
+    height: 150px;
+}
+
+.header-row .intro-main {
+    padding-left: 20px;
+}
 
 .typed-cursor{
     font-size: 8rem;
@@ -952,6 +967,20 @@ body {
     .typed-cursor{
         font-size: 3rem;
     }
+
+    .header-row .intro-main {
+        padding-left: 0;
+    }
+
+    .header-row img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .header-row {
+        flex-direction: column;
+    }
+
 }
 
 /* ----- Product ------ */
@@ -1108,8 +1137,9 @@ body {
 }
 
 #geekettes-images .channel-image .channel-hover .channel-hover-content i {
-    margin-top: -12px;
+    margin-top: 40%;
 }
+
 
 @media(max-width:768px) {
     #geekettes-images .channel-image {
@@ -1117,6 +1147,7 @@ body {
         height:120px;
     }
 }
+
 
 
 

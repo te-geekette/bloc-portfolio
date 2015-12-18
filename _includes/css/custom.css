@@ -14,6 +14,10 @@
     align-items: center;
 }
 
+.align-base {
+    align-items: baseline;
+}
+
 
 /* ----- General ------ */
 
@@ -25,6 +29,17 @@
 }
 
 /* ----- Header ------ */
+
+
+.header-row img {
+    border: 7px solid #f1f1f1;
+    width: 150px;
+    height: 150px;
+}
+
+.header-row .intro-main {
+    padding-left: 20px;
+}
 
 .typed-cursor{
     font-size: 8rem;
@@ -79,6 +94,20 @@
     .typed-cursor{
         font-size: 3rem;
     }
+
+    .header-row .intro-main {
+        padding-left: 0;
+    }
+
+    .header-row img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .header-row {
+        flex-direction: column;
+    }
+
 }
 
 /* ----- Product ------ */
@@ -235,8 +264,9 @@
 }
 
 #geekettes-images .channel-image .channel-hover .channel-hover-content i {
-    margin-top: -12px;
+    margin-top: 40%;
 }
+
 
 @media(max-width:768px) {
     #geekettes-images .channel-image {
@@ -244,6 +274,7 @@
         height:120px;
     }
 }
+
 
 
 
