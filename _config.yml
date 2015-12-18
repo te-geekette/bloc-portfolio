@@ -24,3 +24,7 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+#Scripts
+# #1
+google_analytics: "UA-71581856-1"
