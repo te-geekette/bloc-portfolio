@@ -871,6 +871,23 @@ body {
     webkit-tap-highlight-color: #fed136;
 }
 
+/* ----- General ------ */
+
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+@media(min-width:768px) {
+    .section-subheading {
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+}
+
 .flex {
     display: flex;
 }
@@ -889,16 +906,6 @@ body {
 
 .align-base {
     align-items: baseline;
-}
-
-
-/* ----- General ------ */
-
-@media(min-width:768px) {
-    .section-subheading {
-        margin-left: 200px;
-        margin-right: 200px;
-    }
 }
 
 /* ----- Header ------ */
@@ -953,7 +960,7 @@ body {
     color: #FED136;
 }
 
-/* Header Mobile View*/
+/*Header Mobile View*/
 
 @media(max-width:768px) {
     .intro-main {
@@ -1008,7 +1015,7 @@ body {
     height: 100px;
 }
 
-/* Product Media*/
+/*Product Media*/
 
 @media(min-width:768px) {
     #product .col-md-6 {
@@ -1016,6 +1023,8 @@ body {
         padding-right: 60px;
     }
 }
+
+/* ----- Code ------ */
 
 #code .timeline-panel .timeline-heading .project-titel {
         color: #FED136;
@@ -1060,14 +1069,14 @@ body {
     margin-top: -12px;
 }
 
-/* Code  Media*/
+/*Code Media*/
 
 @media(min-width:768px) {
-    #code #brain-bites {
+/*    #code #brain-bites {
         width: 210px;
         height: 210px;
         margin-left: -105px;
-    }
+    }*/
 
     #code .timeline li {
         margin-bottom: 60px; 

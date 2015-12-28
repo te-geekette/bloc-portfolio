@@ -199,11 +199,11 @@ html {
 /*Code Media*/
 
 @media(min-width:768px) {
-    #code #brain-bites {
+/*    #code #brain-bites {
         width: 210px;
         height: 210px;
         margin-left: -105px;
-    }
+    }*/
 
     #code .timeline li {
         margin-bottom: 60px; 

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tina Egolf</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>https://y7kim.github.io/bloc-portfolio//</link>
-    <atom:link href="https://y7kim.github.io/bloc-portfolio//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 18 Dec 2015 17:31:07 +0100</pubDate>
-    <lastBuildDate>Fri, 18 Dec 2015 17:31:07 +0100</lastBuildDate>
+    <description>My name is Tina Egolf and this is my portfolio: Agile Product Manager. Junior Frontend Developer. Geekette. Speaker. Blogger. Troublemaker.</description>
+    <link>http://te-geekette.github.io/bloc-portfolio//</link>
+    <atom:link href="http://te-geekette.github.io/bloc-portfolio//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 28 Dec 2015 11:00:53 +0100</pubDate>
+    <lastBuildDate>Mon, 28 Dec 2015 11:00:53 +0100</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -17,8 +17,8 @@
 &lt;p&gt;Bildquelle: Death to Stock Photo (http://deathtothestockphoto.com/)&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 Dec 2015 00:00:00 +0100</pubDate>
-        <link>https://y7kim.github.io/bloc-portfolio//future%20of%20work/2015/12/18/post-8-newwork/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/bloc-portfolio//future%20of%20work/2015/12/18/post-8-newwork/</guid>
+        <link>http://te-geekette.github.io/bloc-portfolio//future%20of%20work/2015/12/18/post-8-newwork/</link>
+        <guid isPermaLink="true">http://te-geekette.github.io/bloc-portfolio//future%20of%20work/2015/12/18/post-8-newwork/</guid>
         
         
         <category>Future of Work</category>
@@ -34,8 +34,8 @@
 &lt;p&gt;Weitere Informationen zur Initiative Arbeiten 4.0 finden Sie hier: &lt;a href=&quot;www.arbeitenviernull.de&quot;&gt;www.arbeitenviernull.de&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Apr 2015 00:00:00 +0200</pubDate>
-        <link>https://y7kim.github.io/bloc-portfolio//future%20of%20work/2015/04/22/post-7-arbeiten4/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/bloc-portfolio//future%20of%20work/2015/04/22/post-7-arbeiten4/</guid>
+        <link>http://te-geekette.github.io/bloc-portfolio//future%20of%20work/2015/04/22/post-7-arbeiten4/</link>
+        <guid isPermaLink="true">http://te-geekette.github.io/bloc-portfolio//future%20of%20work/2015/04/22/post-7-arbeiten4/</guid>
         
         
         <category>Future of Work</category>
@@ -84,8 +84,8 @@ Ihr lieben Manager, vielleicht lässt es sich ganz einfach in einem Satz zusamme
 &lt;p&gt;Bildquelle: Death to Stock Photo (http://deathtothestockphoto.com/)&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Nov 2014 00:00:00 +0100</pubDate>
-        <link>https://y7kim.github.io/bloc-portfolio//future%20of%20work/2014/11/05/post-6-fuehrungII/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/bloc-portfolio//future%20of%20work/2014/11/05/post-6-fuehrungII/</guid>
+        <link>http://te-geekette.github.io/bloc-portfolio//future%20of%20work/2014/11/05/post-6-fuehrungII/</link>
+        <guid isPermaLink="true">http://te-geekette.github.io/bloc-portfolio//future%20of%20work/2014/11/05/post-6-fuehrungII/</guid>
         
         
         <category>Future of Work</category>
@@ -128,8 +128,8 @@ Ihr lieben Manager, vielleicht lässt es sich ganz einfach in einem Satz zusamme
 &lt;p&gt;Bildquelle: Death to Stock Photo (http://deathtothestockphoto.com/)&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Nov 2014 00:00:00 +0100</pubDate>
-        <link>https://y7kim.github.io/bloc-portfolio//company%20culture/2014/11/01/post-5-work/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/bloc-portfolio//company%20culture/2014/11/01/post-5-work/</guid>
+        <link>http://te-geekette.github.io/bloc-portfolio//company%20culture/2014/11/01/post-5-work/</link>
+        <guid isPermaLink="true">http://te-geekette.github.io/bloc-portfolio//company%20culture/2014/11/01/post-5-work/</guid>
         
         
         <category>Company Culture</category>
@@ -173,8 +173,8 @@ Stellen Sie sich vor, was wir verändern könnten, wenn all die Antworten auf di
 Bildquelle: Death to Stock Photo (http://deathtothestockphoto.com/)&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Jun 2014 00:00:00 +0200</pubDate>
-        <link>https://y7kim.github.io/bloc-portfolio//company%20culture/2014/06/03/post-4-geny/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/bloc-portfolio//company%20culture/2014/06/03/post-4-geny/</guid>
+        <link>http://te-geekette.github.io/bloc-portfolio//company%20culture/2014/06/03/post-4-geny/</link>
+        <guid isPermaLink="true">http://te-geekette.github.io/bloc-portfolio//company%20culture/2014/06/03/post-4-geny/</guid>
         
         
         <category>Company Culture</category>
@@ -202,8 +202,8 @@ Es ist ein Kreuz mit dieser nächsten Generation! Wollen sie nun gar keine Führ
 &lt;p&gt;Bildquelle: „Meerkat“, © 2010 Paul p_a_h, used under a Creative Commons Attribution license: http://creativecommons.org/licenses/by/2.0/deed.de. Source: http://www.flickr.com/photos/pahudson/4758447025/&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jun 2014 00:00:00 +0200</pubDate>
-        <link>https://y7kim.github.io/bloc-portfolio//future%20of%20work/2014/06/01/post-3-fuehrung/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/bloc-portfolio//future%20of%20work/2014/06/01/post-3-fuehrung/</guid>
+        <link>http://te-geekette.github.io/bloc-portfolio//future%20of%20work/2014/06/01/post-3-fuehrung/</link>
+        <guid isPermaLink="true">http://te-geekette.github.io/bloc-portfolio//future%20of%20work/2014/06/01/post-3-fuehrung/</guid>
         
         
         <category>Future of Work</category>
@@ -239,8 +239,8 @@ Der unausgesprochene Verdacht, dass die wenigsten Unternehmer, Vorstände und Ma
 &lt;em&gt;Bildquelle: „Post-it time“, © 2010 3oheme, used under a Creative Commons Attribution license.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Feb 2014 00:00:00 +0100</pubDate>
-        <link>https://y7kim.github.io/bloc-portfolio//company%20culture/2014/02/04/post-1-werte/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/bloc-portfolio//company%20culture/2014/02/04/post-1-werte/</guid>
+        <link>http://te-geekette.github.io/bloc-portfolio//company%20culture/2014/02/04/post-1-werte/</link>
+        <guid isPermaLink="true">http://te-geekette.github.io/bloc-portfolio//company%20culture/2014/02/04/post-1-werte/</guid>
         
         
         <category>Company Culture</category>
@@ -285,8 +285,8 @@ Der unausgesprochene Verdacht, dass die wenigsten Unternehmer, Vorstände und Ma
 &lt;p&gt;&lt;em&gt;Bildquelle:  „Clone Troopers“, © 2008 Jeremy Keith, used under a Creative Commons Attribution license.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Feb 2014 00:00:00 +0100</pubDate>
-        <link>https://y7kim.github.io/bloc-portfolio//future%20of%20work/2014/02/01/post-2-broterwerb/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/bloc-portfolio//future%20of%20work/2014/02/01/post-2-broterwerb/</guid>
+        <link>http://te-geekette.github.io/bloc-portfolio//future%20of%20work/2014/02/01/post-2-broterwerb/</link>
+        <guid isPermaLink="true">http://te-geekette.github.io/bloc-portfolio//future%20of%20work/2014/02/01/post-2-broterwerb/</guid>
         
         
         <category>Future of Work</category>
